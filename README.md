@@ -1,6 +1,7 @@
 # Heterogeneity-Aware Fusion Learning for Lung Adenocarcinoma (LUAD) 
 ## Project Overview
 This project implements a **multimodal deep learning pipeline** that is designed to predict 5-year mortality in Lung Adenocarcinoma (LUAD) patients. By integrating four distinct data modalities, this model is able to overcome the limitations of unimodal analysis and addresses the challenge of **data heterogeneity** in medical AI. The following modalities were all pulled from https://portal.gdc.cancer.gov/
+Project Presentation slides can be found here: [https://docs.google.com/presentation/d/1gYfPC9r0WY3h1VK6rfFISn2yMseHH4LzxrWezVXx36A/edit?usp=sharing]
 ### The Modalities
 1.  **Clinical Data:** Tabular demographic and exposure data.
 2.  **Genomics (SNV):** Somatic mutation data.
